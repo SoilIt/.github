@@ -15,7 +15,7 @@
 
 - Rama Dwiyantara Perkasa [https://www.linkedin.com/in/ramadwiyantara/](https://www.linkedin.com/in/ramadwiyantara/)
 
-- Adiva Veronia [https://www.linkedin.com/in/ramadwiyantara/](https://www.linkedin.com/in/adiva-veronia-74523720a/)
+- Adiva Veronia [[https://www.linkedin.com/in/ramadwiyantara/](https://www.linkedin.com/in/adiva-veronia-74523720a/)](https://www.linkedin.com/in/adiva-veronia-74523720a/)
 
 - Naily Syarifah [https://www.linkedin.com/in/naily-syarifah-121ba6206/](https://www.linkedin.com/in/naily-syarifah-121ba6206/)
 
