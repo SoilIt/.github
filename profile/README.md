@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We are SoilIt!</h1>
 <h3 align="center">Soilit is an Android application that leverages the power of machine learning and cloud computing to accurately detect soil color and assess soil quality. The primary objective of this application is to offer a convenient and cost-effective solution for farmers, gardeners, and the general public to evaluate soil quality without relying on expensive equipment or laboratory analysis.
-  
+
 By utilizing image processing techniques, Soilit allows users to capture soil images using their smartphone's camera. These images are then processed to extract color features, which serve as important indicators of soil composition and fertility. The application employs advanced machine learning algorithms to classify the soil based on its fertility levels, providing users with valuable insights into the quality of their soil.
   
 Beyond soil analysis, Soilit goes a step further by providing recommendations on suitable plant species and fertilizers based on the detected soil quality. Drawing from a comprehensive database of plant requirements and fertilizer options, the application offers tailored suggestions to optimize crop yield and plant growth. By integrating this feature, Soilit aims to empower users with actionable information that enables them to make informed decisions about their agricultural or gardening practices.
